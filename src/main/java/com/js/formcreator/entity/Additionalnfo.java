@@ -23,7 +23,6 @@ public class Additionalnfo {
     public void setBio(String bio) {
         this.bio = bio;
     }
-
     public String getComments() {
         return comments;
     }
